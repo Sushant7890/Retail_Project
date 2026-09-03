@@ -3,7 +3,7 @@
 ## Project Objective
 To design and implement an end-to-end Swiggy Data Analytics solution using Microsoft Fabric, SQL, and Power BI that ingests raw operational data into a Lakehouse, performs data cleansing and validation, transforms and models the data using a Star Schema in Fabric Data Warehouse, and delivers an interactive Power BI Semantic Model and dashboard to analyze sales performance, customer behavior, restaurant performance, and delivery efficiency.
 ## Dataset Used:
-- <a href="https://github.com/Sushant7890/Retail_Project/blob/main/fact_orders.csv">HR DataSet Details</a>
+- <a href="https://github.com/Sushant7890/Retail_Project/blob/main/fact_orders.csv">Swiggy Sataset</a>
 
 ## Questions (KPIs)  
 -What is the total number of orders?                                                                                         
