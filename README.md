@@ -43,7 +43,7 @@ The dashboard follows a clear and logical analysis flow. It begins with overall 
 -Identify key patterns and trends that can help improve revenue, customer experience, restaurant performance, and delivery efficiency.                                                           
 
 ## Dashboard
-![HR Dashboard](https://github.com/Sushant7890/Retail_Project/blob/main/e505d07a-6683-4f22-ab6e-bef8c0727a1b.png)
+![Swiggy Dashboard](https://github.com/Sushant7890/Retail_Project/blob/main/e505d07a-6683-4f22-ab6e-bef8c0727a1b.png)
 
 ## Project Insight:   
 Revenue Baseline: The platform generated ₹53.01M in Total Sales across 197.43K orders.                                          
